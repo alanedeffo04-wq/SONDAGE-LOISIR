@@ -22,6 +22,4 @@ Ce projet sert de base pour de futures analyses de données.
 - Envoi automatique des réponses vers Google Sheets  
 - Hébergement en ligne pour accès public  
 
----
 
-## 📂 Structure du projet
